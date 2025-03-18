@@ -1,5 +1,5 @@
-# wine_classifier
-### Wine Quality Prediction using Machine Learning
+
+## Wine Quality Prediction using Machine Learning
 
 This project predicts the quality of wine based on its chemical properties using various machine learning models, including Logistic Regression, SVM, KNN, Decision Tree, Random Forest, and XGBoost. The project also includes a Streamlit UI for user-friendly interaction.
 
@@ -35,7 +35,7 @@ Enter the wine characteristics in the input fields.
 
 Click on "Predict Quality" to see the result (Good or Bad Quality).
 
-
+![Streamlit UI]()
 
 ##### Results
 
