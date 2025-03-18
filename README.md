@@ -35,7 +35,7 @@ Enter the wine characteristics in the input fields.
 
 Click on "Predict Quality" to see the result (Good or Bad Quality).
 
-![Streamlit UI](Screenshot (636).png)
+![Streamlit UI]((https://github.com/Alcatraz16/wine_classifier/blob/main/Screenshot%20(636).png?raw=true))
 
 ##### Results
 
