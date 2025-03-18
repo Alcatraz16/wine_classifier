@@ -35,7 +35,7 @@ Enter the wine characteristics in the input fields.
 
 Click on "Predict Quality" to see the result (Good or Bad Quality).
 
-![Streamlit UI]()
+![Streamlit UI](Screenshot (636).png)
 
 ##### Results
 
