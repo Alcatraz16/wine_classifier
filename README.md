@@ -45,3 +45,6 @@ Accuracy: 93.12%
 Precision: 92.73%
 Recall: 93.12%
 F1 Score: 93.86%
+
+##### Author
+Sagnik Ghosh
